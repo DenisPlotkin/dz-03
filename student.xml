@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <name>National University of Food Technologies</name>
+  <student>
+    <name>Denis</name>
+    <surname>Plotkin</surname>
+    <age>28</age>
+    <id>18</id>
+  </student>
+  <faculty>
+    <name_faculty>Computer Science</name_faculty>
+    <number_of_faculty>192</number_of_faculty>
+  </faculty>
+  <items>
+    <01>Math</01>
+    <name>Andrii</name>
+    <surname>Zhuk</surname>
+    <chair>automated computer system</chair>
+  </items>
+  <items>
+    <02>web-design</02>
+    <name>Volodymyr</name>
+    <surname>Kostenko</surname>
+    <chair>automated computer system</chair>
+  </items>
+  <items>
+    <03>Automated QA</03>
+    <name>Oleksandr</name>
+    <surname>Podoliako</surname>
+    <chair>automated computer system</chair>
+  </items>
+</root>
