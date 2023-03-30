@@ -1,0 +1,22 @@
+name: National University of Food Technologies
+student:
+  name: Denis
+  surname: Plotkin
+  age: '28'
+  id: '18'
+faculty:
+  name faculty: Computer Science
+  number of faculty: '192'
+items:
+- '01': Math
+  name: Andrii
+  surname: Zhuk
+  chair: automated computer system
+- '02': web-design
+  name: Volodymyr
+  surname: Kostenko
+  chair: automated computer system
+- '03': Automated QA
+  name: Oleksandr
+  surname: Podoliako
+  chair: automated computer system
